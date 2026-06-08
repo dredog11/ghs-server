@@ -98,5 +98,6 @@ public class Party {
 	@Required
 	private Map<String, Integer> factionReputation = new HashMap<>();
 	private Integer imbuement;
+	private LinkedList<CampaignHistoryEntry> campaignHistory = new LinkedList<>();
 
 }
