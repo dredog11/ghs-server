@@ -8,6 +8,8 @@ hs_err*.log
 ghs.sqlite
 test.sqlite
 gloomhavensecretariat
+.cursor/
+run/
 
 # IDEs and editors
 .idea/
